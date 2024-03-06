@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AvalityInterviewProgram.iml" filepath="$PROJECT_DIR$/AvalityInterviewProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AvalityProgram.iml" filepath="$PROJECT_DIR$/AvalityProgram.iml" />
     </modules>
   </component>
 </project>
